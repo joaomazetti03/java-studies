@@ -1,4 +1,4 @@
-## Sintaxe - Desafio DIO
+# Sintaxe - Desafio DIO
 
 Esse projeto é correspondente a atividade **Simulando Uma Conta Bancária Através Do Terminal/Console** 
 do curso de formação de **Java Backend** da plataforma **DIO**.
